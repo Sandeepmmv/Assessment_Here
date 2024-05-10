@@ -63,15 +63,6 @@ const Question =[
         ]
     },
     {
-        question:"Q: Which HTML tag is used to create a table row?",
-        answers:[
-            {text:"A) & nbsp ;",correct:true},
-            {text:"B) & copy;",correct:false},
-            {text:"C) & reg;",correct:false},
-            {text:"D) & trade;",correct:false},
-        ]
-    },
-    {
         question:"Q: Which HTML tag is used to create a table header?",
         answers:[
             {text:"A) < table>",correct:false},
